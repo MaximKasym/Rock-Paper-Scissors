@@ -13,6 +13,7 @@
 	height: 361px;
 	border: 10px solid;
 	background-color: lightgreen;
+	transform: scale(0.3)
 }
 .result{
 	width: 90%;
